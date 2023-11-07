@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang web giới thiệu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        p {
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Trang web giới thiệu</h1>
+    </header>
+
+    <main>
+        <h2>Về chúng tôi</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus dui ac est lobortis, a commodo ipsum varius. Proin vitae interdum tellus, non commodo purus. Nam tincidunt augue vel purus varius, vitae dictum erat elementum. Nulla facilisi. Sed ultricies quam et ligula lacinia, auctor mattis elit dapibus. Fusce at tincidunt quam. Fusce tempus, risus quis pellentesque rhoncus, sem arcu venenatis risus, sit amet feugiat libero felis nec nunc.</p>
+
+        <img src="image.jpg" alt="Hình ảnh">
+
+        <h2>Liên hệ</h2>
+        <p>Địa chỉ: 123 Đường ABC, Thành phố XYZ</p>
+        <p>Email: example@example.com</p>
+        <p>Điện thoại: 123-456-789</p>
+    </main>
+
+    <footer>
+        &copy; 2022 Trang web giới thiệu
+    </footer>
+</body>
+</html>
